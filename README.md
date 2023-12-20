@@ -12,15 +12,15 @@ Anna University, Chennai — Bachelor of Engineering
 
 ## Work Experience
 ### Upwork — Digital Marketing Strategist
-June 2021 - Present
+### June 2021 - Present
 Orchestrated impactful digital campaigns across industries, weaving together social media, content, and SEO magic. Data-driven strategies honed target audiences, crafted captivating content, and propelled brands skyward. Analytics unveiled the ROI, ensuring client satisfaction and sustained growth.
 
 ### Mazhalai Foundation (NGO)— Fundraising Consultant
-January 2018 - May 2021
+### January 2018 - May 2021
 Crafted and deployed impactful fundraising campaigns, weaving through social media, events, and strategic partnerships to boost organizational funding. Compelling proposals and materials showcased project impact, captivating donors and sponsors. 
 
 ### Reliance Capital — Manager( Marketing & Sales)
-August 2012 - October 2017
+### August 2012 - October 2017
 Spearheaded a thriving sales team, driving customer growth and revenue expansion through strategic initiatives. Market research and competitor analysis fueled innovative sales plans, while cultivating key client relationships ensured customer satisfaction and loyalty. 
 
 
@@ -35,13 +35,13 @@ Skills: Design Thinking · Project Management · Marketing Analytics · Market R
 https://dusty-emu-fe2.notion.site/Strategy-Consulting-to-advise-a-hypothetical-telco-company-Company-X-facing-a-decline-in-profits-14eae265c8c549b98601578d9c18fda2?pvs=4
 
 ### 🚀 Growth Marketing Campaign Brief
-  Mercer, a global leader in consulting, outsourcing, and technology solutions, faces a unique challenge in the Indian market. While well-established in the corporate arena, its offerings might not be as well-known among individual consumers and smaller businesses. This growth marketing campaign aims to bridge that gap and establish Mercer as a trusted partner for individuals and businesses alike.Mercer, a global leader in consulting, outsourcing, and technology solutions, faces a unique challenge in the Indian market. While well-established in the corporate arena, its offerings might not be as well-known among individual consumers and smaller businesses. This growth marketing campaign aims to bridge that gap and establish Mercer as a trusted partner for individuals and businesses alike.
+   Mercer, a global leader in consulting, outsourcing, and technology solutions, faces a unique challenge in the Indian market. While well-established in the corporate arena, its offerings might not be as well-known among individual consumers and smaller businesses. This growth marketing campaign aims to bridge that gap and establish Mercer as a trusted partner for individuals and businesses alike.Mercer, a global leader in consulting, outsourcing, and technology solutions, faces a unique challenge in the Indian market. While well-established in the corporate arena, its offerings might not be as well-known among individual consumers and smaller businesses. This growth marketing campaign aims to bridge that gap and establish Mercer as a trusted partner for individuals and businesses alike.
 
 Skills: Performance Marketing · Market Research · Marketing Campaign Management · Marketing Strategy
 
 https://dusty-emu-fe2.notion.site/Growth-Marketing-Campaign-Brief-a8723101aba840cdb21b013109087c58?pvs=4
 
-###Product Launch Brief For New AI Product Certification
+### Product Launch Brief For New AI Product Certification
 - Unlock the Power of AI: Master Product Management in the Age of Intelligence
 - From Data to Decisions: How AI Empowers Product Managers to Build Winning Products
 - Supercharge Your Product Roadmap: A Practical Guide to AI for Product Managers
