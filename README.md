@@ -24,6 +24,7 @@ August 2012 - October 2017
 Spearheaded a thriving sales team, driving customer growth and revenue expansion through strategic initiatives. Market research and competitor analysis fueled innovative sales plans, while cultivating key client relationships ensured customer satisfaction and loyalty. 
 
 
+
 ### Projects
 Strategy Consulting to advise a hypothetical telco company, Company X, facing a decline in profits.
 - Company X, a hypothetical telecom company who is facing a decline in profits over the past few years.
