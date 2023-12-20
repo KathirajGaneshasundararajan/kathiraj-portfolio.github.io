@@ -51,3 +51,7 @@ Product Launch Brief For New AI Product Certification
 Skills: Product Analytics · Project Management · Digital Copywriting · Digital Marketing
 
 https://dusty-emu-fe2.notion.site/AI-for-Product-Certification-5ec9ff60b3d24289989dc344262c3fd4?pvs=4
+
+Case Study: Performance Marketing for a Retail Brand to Launch a new line of product
+
+https://dusty-emu-fe2.notion.site/Case-Study-Performance-Marketing-for-a-Retail-Brand-to-Launch-a-new-line-of-product-49a89227f81c480aa7d8cd532a764cf9?pvs=4
