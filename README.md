@@ -12,15 +12,21 @@ September 2005 - May 2009
 
 ### Work Experience
 Upwork — Digital Marketing Strategist
+
 June 2021 - Present
+
 Orchestrated impactful digital campaigns across industries, weaving together social media, content, and SEO magic. Data-driven strategies honed target audiences, crafted captivating content, and propelled brands skyward. Analytics unveiled the ROI, ensuring client satisfaction and sustained growth.
 
 Mazhalai Foundation (NGO)— Fundraising Consultant
+
 January 2018 - May 2021
+
 Crafted and deployed impactful fundraising campaigns, weaving through social media, events, and strategic partnerships to boost organizational funding. Compelling proposals and materials showcased project impact, captivating donors and sponsors. 
 
 Reliance Capital — Manager( Marketing & Sales)
+
 August 2012 - October 2017
+
 Spearheaded a thriving sales team, driving customer growth and revenue expansion through strategic initiatives. Market research and competitor analysis fueled innovative sales plans, while cultivating key client relationships ensured customer satisfaction and loyalty. 
 
 
