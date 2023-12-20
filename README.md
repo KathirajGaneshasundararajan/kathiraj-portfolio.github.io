@@ -3,11 +3,11 @@ Innovative marketing consultant with experience of providing strategic and pract
 
 
 ## Education
-Anna University, Chennai — MBA
-(September 2010 - July 2012)
+### Anna University, Chennai — MBA
+September 2010 - July 2012
 
-Anna University, Chennai — Bachelor of Engineering
-(September 2005 - May 2009)
+### Anna University, Chennai — Bachelor of Engineering
+September 2005 - May 2009
 
 
 ## Work Experience
