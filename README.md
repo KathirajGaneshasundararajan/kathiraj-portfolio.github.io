@@ -62,3 +62,12 @@ https://dusty-emu-fe2.notion.site/AI-for-Product-Certification-5ec9ff60b3d242899
 Skills: Design Thinking · Performance Marketing · Market Research · Marketing Strategy
 
 https://dusty-emu-fe2.notion.site/Case-Study-Performance-Marketing-for-a-Retail-Brand-to-Launch-a-new-line-of-product-49a89227f81c480aa7d8cd532a764cf9?pvs=4
+
+### Google Performance Ads Campaign for Tesla in India (Simulated Launch)
+
+   This is a simulated campaign based on the assumption of a Tesla launch in India.By implementing these strategies, Google Performance Ads can play a crucial role in generating excitement and interest for Tesla's launch in India, ultimately driving website visits and test drive signups.This is a simulated campaign based on the assumption of a Tesla launch in India.By implementing these strategies, Google Performance Ads can play a crucial role in generating excitement and interest for Tesla's launch in India, ultimately driving website visits and test drive signups.
+
+Skills: Marketing Campaign Management · Advertising Strategy · Online Advertising · Google Ads · Digital MarketingSkills: Marketing Campaign Management · Advertising Strategy · Online Advertising · Google Ads · Digital Marketing
+
+https://dusty-emu-fe2.notion.site/Google-Performance-Ads-Campaign-for-Tesla-in-India-Simulated-Launch-50445d5d98314d3eb4696646f757cf05?pvs=4
+
