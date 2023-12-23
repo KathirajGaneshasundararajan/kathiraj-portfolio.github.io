@@ -71,3 +71,14 @@ Skills: Marketing Campaign Management · Advertising Strategy · Online Advertis
 
 https://dusty-emu-fe2.notion.site/Google-Performance-Ads-Campaign-for-Tesla-in-India-Simulated-Launch-50445d5d98314d3eb4696646f757cf05?pvs=4
 
+### Data Analytics project: Providing data-driven suggestions for HR
+
+   This capstone project is an opportunity to analyze a dataset and build predictive models that can provide insights to the Human Resources (HR) department of a large consulting firm.
+The HR department at Salifort Motors wants to take some initiatives to improve employee satisfaction levels at the company. Goals in this project are to analyze the data collected by the HR department and to build a model that predicts whether or not an employee will leave the company and  identify factors that contribute to their leaving.
+
+Skills: Data Analysis · Data-driven Decision Making · Data Visualisation · Business Intelligence
+
+
+
+
+  
