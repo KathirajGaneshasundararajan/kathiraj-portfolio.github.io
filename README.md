@@ -78,7 +78,7 @@ The HR department at Salifort Motors wants to take some initiatives to improve e
 
 Skills: Data Analysis · Data-driven Decision Making · Data Visualisation · Business Intelligence
 
-
+[(Salifort Motors project lab.ipynb)]
 
 
   
