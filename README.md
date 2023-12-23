@@ -71,6 +71,14 @@ Skills: Marketing Campaign Management · Advertising Strategy · Online Advertis
 
 https://dusty-emu-fe2.notion.site/Google-Performance-Ads-Campaign-for-Tesla-in-India-Simulated-Launch-50445d5d98314d3eb4696646f757cf05?pvs=4
 
+### Product Teardown for Revolut
+
+   Revolut has successfully carved out a niche in the FinTech landscape by offering a convenient and affordable alternative to traditional banking. The Revolut app is a financial technology platform offering various banking services, including currency exchange, payments, budgeting, and more.
+
+Skills: Product Management · Product Analytics · Product-Led Growth · Product Marketing
+
+https://dusty-emu-fe2.notion.site/Product-Teardown-For-Revolut-f6aec6566c78418bb3b1b04c41709741?pvs=4
+
 ### Data Analytics project: Providing data-driven suggestions for HR
 
    This capstone project is an opportunity to analyze a dataset and build predictive models that can provide insights to the Human Resources (HR) department of a large consulting firm.
