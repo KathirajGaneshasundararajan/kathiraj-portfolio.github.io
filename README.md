@@ -1,6 +1,7 @@
 # About
 Innovative marketing consultant with experience of providing strategic and practical advice to achieve company marketing efforts. Adept in assessing the needs and desires of target audiences and identifying effective strategies to reach them. Bringing forth valuable industry experience and the expertise necessary to increase company visibility and gain customers. Equipped with knowledge of marketing principles and best practices and a commitment to helping clients achieve goals.
-##[Catch me if you can for my stories on Business Technology 👉https://medium.com/@Kathiraj_MarTechie](https://medium.com/@Kathiraj_MarTechie)
+
+Catch me if you can for my stories on Business Technology 👉[https://medium.com/@Kathiraj_MarTechie](https://medium.com/@Kathiraj_MarTechie)
 
 ## Education
 ### Anna University, Chennai — MBA
@@ -39,9 +40,8 @@ Skills: Design Thinking · Project Management · Marketing Analytics · Market R
 
 Skills: Performance Marketing · Market Research · Marketing Campaign Management · Marketing Strategy
 
-[]([url](https://dusty-emu-fe2.notion.site/Growth-Marketing-Campaign-Brief-a8723101aba840cdb21b013109087c58?pvs=4
-))
-
+[https://dusty-emu-fe2.notion.site/Growth-Marketing-Campaign-Brief-a8723101aba840cdb21b013109087c58?pvs=4
+](https://dusty-emu-fe2.notion.site/Growth-Marketing-Campaign-Brief-a8723101aba840cdb21b013109087c58?pvs=4)
 ### Product Launch Brief For New AI Product Certification
 - Unlock the Power of AI: Master Product Management in the Age of Intelligence
 - From Data to Decisions: How AI Empowers Product Managers to Build Winning Products
@@ -51,7 +51,7 @@ Skills: Performance Marketing · Market Research · Marketing Campaign Managemen
 
 Skills: Product Analytics · Project Management · Digital Copywriting · Digital Marketing
 
-https://dusty-emu-fe2.notion.site/AI-for-Product-Certification-5ec9ff60b3d24289989dc344262c3fd4?pvs=4
+[https://dusty-emu-fe2.notion.site/AI-for-Product-Certification-5ec9ff60b3d24289989dc344262c3fd4?pvs=4](https://dusty-emu-fe2.notion.site/AI-for-Product-Certification-5ec9ff60b3d24289989dc344262c3fd4?pvs=4)
 
 ### Case Study: Performance Marketing for a Retail Brand to Launch a new line of product
 - Decathlon- a leading sporting goods retailer is launching a range of products that historically has not   been the best performer online.
@@ -62,7 +62,8 @@ https://dusty-emu-fe2.notion.site/AI-for-Product-Certification-5ec9ff60b3d242899
 
 Skills: Design Thinking · Performance Marketing · Market Research · Marketing Strategy
 
-https://dusty-emu-fe2.notion.site/Case-Study-Performance-Marketing-for-a-Retail-Brand-to-Launch-a-new-line-of-product-49a89227f81c480aa7d8cd532a764cf9?pvs=4
+[https://dusty-emu-fe2.notion.site/Case-Study-Performance-Marketing-for-a-Retail-Brand-to-Launch-a-new-line-of-product-49a89227f81c480aa7d8cd532a764cf9?pvs=4](https://dusty-emu-fe2.notion.site/Case-Study-Performance-Marketing-for-a-Retail-Brand-to-Launch-a-new-line-of-product-49a89227f81c480aa7d8cd532a764cf9?pvs=4)
+
 
 ### Google Performance Ads Campaign for Tesla in India (Simulated Launch)
 
@@ -70,7 +71,7 @@ https://dusty-emu-fe2.notion.site/Case-Study-Performance-Marketing-for-a-Retail-
 
 Skills: Marketing Campaign Management · Advertising Strategy · Online Advertising · Google Ads · Digital MarketingSkills: Marketing Campaign Management · Advertising Strategy · Online Advertising · Google Ads · Digital Marketing
 
-https://dusty-emu-fe2.notion.site/Google-Performance-Ads-Campaign-for-Tesla-in-India-Simulated-Launch-50445d5d98314d3eb4696646f757cf05?pvs=4
+[https://dusty-emu-fe2.notion.site/Google-Performance-Ads-Campaign-for-Tesla-in-India-Simulated-Launch-50445d5d98314d3eb4696646f757cf05?pvs=4](https://dusty-emu-fe2.notion.site/Google-Performance-Ads-Campaign-for-Tesla-in-India-Simulated-Launch-50445d5d98314d3eb4696646f757cf05?pvs=4)
 
 ### Product Teardown for Revolut
 
@@ -78,7 +79,8 @@ https://dusty-emu-fe2.notion.site/Google-Performance-Ads-Campaign-for-Tesla-in-I
 
 Skills: Product Management · Product Analytics · Product-Led Growth · Product Marketing
 
-https://dusty-emu-fe2.notion.site/Product-Teardown-For-Revolut-f6aec6566c78418bb3b1b04c41709741?pvs=4
+[https://dusty-emu-fe2.notion.site/Product-Teardown-For-Revolut-f6aec6566c78418bb3b1b04c41709741?pvs=4](https://dusty-emu-fe2.notion.site/Product-Teardown-For-Revolut-f6aec6566c78418bb3b1b04c41709741?pvs=4)
+
 
 ### Data Analytics project: Providing data-driven suggestions for HR
 
@@ -87,7 +89,8 @@ The HR department at Salifort Motors wants to take some initiatives to improve e
 
 Skills: Data Analysis · Data-driven Decision Making · Data Visualisation · Business Intelligence
 
-https://github.com/KathirajGaneshasundararajan/kathiraj-portfolio.github.io/blob/827182b34cc6139fc665f3364a7c4604ff667ba8/%20Salifort%20Motors%20project%20lab.ipynb
+[https://github.com/KathirajGaneshasundararajan/kathiraj-portfolio.github.io/blob/827182b34cc6139fc665f3364a7c4604ff667ba8/%20Salifort%20Motors%20project%20lab.ipynb](https://github.com/KathirajGaneshasundararajan/kathiraj-portfolio.github.io/blob/827182b34cc6139fc665f3364a7c4604ff667ba8/%20Salifort%20Motors%20project%20lab.ipynb)
+
 
 
   
