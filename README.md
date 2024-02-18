@@ -1,6 +1,6 @@
 # About
 Innovative marketing consultant with experience of providing strategic and practical advice to achieve company marketing efforts. Adept in assessing the needs and desires of target audiences and identifying effective strategies to reach them. Bringing forth valuable industry experience and the expertise necessary to increase company visibility and gain customers. Equipped with knowledge of marketing principles and best practices and a commitment to helping clients achieve goals.
-  [Catch me if you can for my stories on Business Technology 👉](https://medium.com/@Kathiraj_MarTechie)
+##[Catch me if you can for my stories on Business Technology 👉https://medium.com/@Kathiraj_MarTechie](https://medium.com/@Kathiraj_MarTechie)
 
 ## Education
 ### Anna University, Chennai — MBA
@@ -32,7 +32,7 @@ Spearheaded a thriving sales team, driving customer growth and revenue expansion
 
 Skills: Design Thinking · Project Management · Marketing Analytics · Market Research · Go-to-Market Strategy
 
-(https://dusty-emu-fe2.notion.site/Strategy-Consulting-to-advise-a-hypothetical-telco-company-Company-X-facing-a-decline-in-profits-14eae265c8c549b98601578d9c18fda2?pvs=4)
+[https://dusty-emu-fe2.notion.site/Strategy-Consulting-to-advise-a-hypothetical-telco-company-Company-X-facing-a-decline-in-profits-14eae265c8c549b98601578d9c18fda2?pvs=4](https://dusty-emu-fe2.notion.site/Strategy-Consulting-to-advise-a-hypothetical-telco-company-Company-X-facing-a-decline-in-profits-14eae265c8c549b98601578d9c18fda2?pvs=4)
 
 ### 🚀 Growth Marketing Campaign Brief
    Mercer, a global leader in consulting, outsourcing, and technology solutions, faces a unique challenge in the Indian market. While well-established in the corporate arena, its offerings might not be as well-known among individual consumers and smaller businesses. This growth marketing campaign aims to bridge that gap and establish Mercer as a trusted partner for individuals and businesses alike.Mercer, a global leader in consulting, outsourcing, and technology solutions, faces a unique challenge in the Indian market. While well-established in the corporate arena, its offerings might not be as well-known among individual consumers and smaller businesses. This growth marketing campaign aims to bridge that gap and establish Mercer as a trusted partner for individuals and businesses alike.
