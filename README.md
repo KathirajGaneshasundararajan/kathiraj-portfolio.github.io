@@ -1,6 +1,6 @@
 # About
 Innovative marketing consultant with experience of providing strategic and practical advice to achieve company marketing efforts. Adept in assessing the needs and desires of target audiences and identifying effective strategies to reach them. Bringing forth valuable industry experience and the expertise necessary to increase company visibility and gain customers. Equipped with knowledge of marketing principles and best practices and a commitment to helping clients achieve goals.
-
+Catch me if you can for my stories on Business Technology 👉 https://medium.com/@Kathiraj_MarTechie 
 
 ## Education
 ### Anna University, Chennai — MBA
