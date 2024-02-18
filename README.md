@@ -32,14 +32,15 @@ Spearheaded a thriving sales team, driving customer growth and revenue expansion
 
 Skills: Design Thinking · Project Management · Marketing Analytics · Market Research · Go-to-Market Strategy
 
-https://dusty-emu-fe2.notion.site/Strategy-Consulting-to-advise-a-hypothetical-telco-company-Company-X-facing-a-decline-in-profits-14eae265c8c549b98601578d9c18fda2?pvs=4
+(https://dusty-emu-fe2.notion.site/Strategy-Consulting-to-advise-a-hypothetical-telco-company-Company-X-facing-a-decline-in-profits-14eae265c8c549b98601578d9c18fda2?pvs=4)
 
 ### 🚀 Growth Marketing Campaign Brief
    Mercer, a global leader in consulting, outsourcing, and technology solutions, faces a unique challenge in the Indian market. While well-established in the corporate arena, its offerings might not be as well-known among individual consumers and smaller businesses. This growth marketing campaign aims to bridge that gap and establish Mercer as a trusted partner for individuals and businesses alike.Mercer, a global leader in consulting, outsourcing, and technology solutions, faces a unique challenge in the Indian market. While well-established in the corporate arena, its offerings might not be as well-known among individual consumers and smaller businesses. This growth marketing campaign aims to bridge that gap and establish Mercer as a trusted partner for individuals and businesses alike.
 
 Skills: Performance Marketing · Market Research · Marketing Campaign Management · Marketing Strategy
 
-https://dusty-emu-fe2.notion.site/Growth-Marketing-Campaign-Brief-a8723101aba840cdb21b013109087c58?pvs=4
+[]([url](https://dusty-emu-fe2.notion.site/Growth-Marketing-Campaign-Brief-a8723101aba840cdb21b013109087c58?pvs=4
+))
 
 ### Product Launch Brief For New AI Product Certification
 - Unlock the Power of AI: Master Product Management in the Age of Intelligence
